@@ -1,0 +1,16 @@
+# makepkg ダウンロードソース
+*.tar.gz
+*.tar.xz
+*.tar.zst
+*.tar.bz2
+*.zip
+
+# makepkg ビルド・パッケージ生成物
+src/
+pkg/
+*.pkg.tar.zst
+*.pkg.tar.xz
+
+# ソース展開ログ・チェックサムテンポラリ
+*.log
+*.log.*
