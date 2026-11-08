@@ -1,7 +1,7 @@
 # Maintainer: MASAHIRO SUGAYA <xsigil@section-9.sh>
-pkgname=m4llama-bin
+pkgname=m4llama
 _pkgname=m4llama
-pkgver=0.2.2
+pkgver=0.2.3
 pkgrel=1
 pkgdesc="Terminal cockpit and CLI for templated local LLM inference via pure-Go M4 engine and llama-server"
 arch=('x86_64' 'aarch64')
